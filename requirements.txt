@@ -1,0 +1,4 @@
+numpy>=1.24
+pygame>=2.5
+sounddevice>=0.4      # capture micro (nécessite PortAudio ; inutile avec --demo ou --wav)
+matplotlib>=3.7       # uniquement pour tools/make_report_assets.py
